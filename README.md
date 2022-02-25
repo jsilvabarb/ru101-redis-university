@@ -1,12 +1,20 @@
 # ru101-redis-university
  RU101 course class notes
+ 
+ - [Semana-1](#Semana-1)
+ - [Semana 2](#Semana-2)
+ - [Semana 3](#Semana-3)
+ - [Semana 4](#Semana-4)
+ - [Semana 5](#Semana-5)
+ - [Semana 6](#Semana-6)
 
-## Redis Structures 
-- Keys
-- Strings
-- Hashes
-- Listas 
-- Sets e SortedSets 
+## Semana-1
+### Redis Structures 
+- [Keys](#Keys)
+- [Strings](#Keys)
+- [Hashes](#Hashes)
+- [Listas](#Listas)
+- [Sets e SortedSets](#Sets)
 
 ## Keys 
 
